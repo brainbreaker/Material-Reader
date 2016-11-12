@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/brainbreaker/AndroidStudioProjects/Udacity Nanodegree/Material-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/brainbreaker/AndroidStudioProjects/Udacity Nanodegree/Material-Reader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/home/brainbreaker/AndroidStudioProjects/Udacity Nanodegree/Material-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/brainbreaker/AndroidStudioProjects/Udacity Nanodegree/Material-Reader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/brainbreaker/AndroidStudioProjects/Udacity Nanodegree/Material-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/brainbreaker/AndroidStudioProjects/Udacity Nanodegree/Material-Reader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    }
+]
