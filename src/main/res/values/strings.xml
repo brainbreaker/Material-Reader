@@ -8,5 +8,6 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="empty_list">Uh-Oh, Nothing found. Check your connection</string>
 
 </resources>
