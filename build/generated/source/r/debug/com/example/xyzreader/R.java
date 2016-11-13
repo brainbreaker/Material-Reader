@@ -1297,7 +1297,7 @@ containing a value of this type.
         public static final int hint_foreground_material_light=0x7f0c001d;
         public static final int link_text_material_dark=0x7f0c001e;
         public static final int link_text_material_light=0x7f0c001f;
-        public static final int ltgray=0x7f0c0020;
+        public static final int lightGray =0x7f0c0020;
         public static final int material_blue_grey_800=0x7f0c0021;
         public static final int material_blue_grey_900=0x7f0c0022;
         public static final int material_blue_grey_950=0x7f0c0023;
@@ -1320,9 +1320,9 @@ containing a value of this type.
         public static final int secondary_text_disabled_material_light=0x7f0c0034;
         public static final int switch_thumb_normal_material_dark=0x7f0c0035;
         public static final int switch_thumb_normal_material_light=0x7f0c0036;
-        public static final int theme_accent=0x7f0c0037;
-        public static final int theme_primary=0x7f0c0038;
-        public static final int theme_primary_dark=0x7f0c0039;
+        public static final int colorAccent =0x7f0c0037;
+        public static final int colorPrimary =0x7f0c0038;
+        public static final int colorPrimaryDark =0x7f0c0039;
     }
     public static final class dimen {
         public static final int abc_action_bar_default_height_material=0x7f090000;
