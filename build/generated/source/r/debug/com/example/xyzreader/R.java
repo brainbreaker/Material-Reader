@@ -1607,7 +1607,7 @@ containing a value of this type.
         public static final int action_share=0x7f060012;
         public static final int app_name=0x7f060013;
         public static final int up=0x7f060014;
-        public static final int welcome_xyz_reader=0x7f060015;
+        public static final int welcome_material_reader =0x7f060015;
     }
     public static final class style {
         public static final int Animation_AppCompat_DropDownUp=0x7f07006a;
