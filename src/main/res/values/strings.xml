@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="empty_list">Uh-Oh, Nothing found. Check your connection</string>
+    <string name="detail_image_transition_name">TN_DetailImage</string>
 
 </resources>
